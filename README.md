@@ -32,16 +32,3 @@ This project is licensed under the [Apache License 2.0](https://www.apache.org/l
 
 
 
-## Reference
-
-If you find this repository useful in your work, please cite our [EDBT'21 paper](https://edbt2021proceedings.github.io/docs/p32.pdf):
-
-```
-@inproceedings{jiang2021structure,
-  title={Structure Detection in Verbose CSV Files.},
-  author={Jiang, Lan and Vitagliano, Gerardo and Naumann, Felix},
-  booktitle={EDBT},
-  pages={193--204},
-  year={2021}
-}
-```
