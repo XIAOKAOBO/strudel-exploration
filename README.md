@@ -1,16 +1,10 @@
-# Strudel
-Detecting structure in verbose CSV files via classifying lines and cells.
+# Strudel - Exploration
+
+This is the research on extension of the original strudel algorithm: https://github.com/lanchiang/strudel based on the paper https://edbt2021proceedings.github.io/docs/p32.pdf.
+
+It did some exploration such as feature enrichments and column classifications
 
 ## Getting Started
-
-### Installing
-
-* This project is implemented in Python 3.7.7.
-* Use the following command to download all required libraries for Python:
-```
-pip install -r requirements.txt
-```
-* We recommend to install the required libraries in a separated virtual environment.
 
 ### Executing program
 
@@ -35,13 +29,8 @@ The following arguments can be used for the above script:
 
 This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) License - see the LICENSE.md file for details
 
-## Acknowledgments
 
-* [Gerardo Vitagliano](https://github.com/vitaglianog)
-* [Felix Naumann](https://github.com/felix-naumann)
 
-## Contact
-Please contact [Lan Jiang](mailto:lan.jiang@hpi.de) if you have any questions or want to report bugs.
 
 ## Reference
 
